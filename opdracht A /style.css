@@ -3,7 +3,28 @@ body{
 }
 
 #container{
+    display: block;
     background-color: white;
     height: 100px;
-    width: 400px;
+    width: 900px;
+    padding: 50px;
+    margin-left: 300px;
+}
+
+#Green{
+    background-color: green;
+}
+
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+
+button{
+    margin-left: 70px;
+    width: 200px;
+    height: 100px;
 }
