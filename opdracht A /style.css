@@ -1,0 +1,9 @@
+body{
+    background-color: gray;
+}
+
+#container{
+    background-color: white;
+    height: 100px;
+    width: 400px;
+}
