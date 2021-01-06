@@ -10,6 +10,7 @@ for(i=0; i < 30; i++){
         button.appendChild(text);
         button.onclick = function(){
             this.style.backgroundColor = "red";
+            console.dir(this.style.backgroundColor);
         }  
 
     container.appendChild(button);//Appereance the buttons in the div element.
