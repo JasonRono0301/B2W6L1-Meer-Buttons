@@ -1,15 +1,9 @@
-body{
-    background-color: gray;
-}
-
 #container{
     width: 300px;
     height: 400px;
-    background-color: white;
 }
 
 button{
-    background-color: green;
     width: 50px;
     height: 60px;
 }
